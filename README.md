@@ -1,63 +1,51 @@
-# Industrial Automation | Python | Applied AI
+# Software Engineering | Applied AI | Python
 
-Automation and software engineer with approximately 10 years of experience in industrial automation, PLC programming, robotics, commissioning, and production systems.
+**Industrial Automation · Machine Learning · RAG Systems**
 
-Currently expanding my engineering background into Python software development, machine learning, industrial diagnostics, and evidence-driven AI systems.
+Software and automation engineer with approximately 10 years of industrial experience, developing independent Python and Applied AI research projects.
 
-My focus is on combining practical industrial knowledge with reliable software engineering, reproducible experiments, and structured verification.
+Focused on reliable software, automated testing, reproducible experiments, and evidence-driven engineering.
 
-## Featured Engineering Projects
+## Featured AI & Python Projects
 
 ### Industrial Predictive Intelligence (IPI)
+**Python · Synthetic Data · Simulation · Industrial ML Research**
 
 [Explore IPI Portfolio](https://github.com/GitMasterMindX/Industrial_Predictive_Intelligence_Portfolio)
 
-Research prototype exploring physics-inspired industrial motor simulation, synthetic fault scenarios, and reproducible data engineering.
+Physics-inspired industrial motor simulation and synthetic fault diagnostics research.
 
-**Highlights:**
 - 150,000 synthetic observations across 250 simulation runs.
 - Five operating and fault classes.
-- Group-aware data partitioning.
-- Automated verification and integrity controls.
-- Research toward machine learning-based diagnostics.
-
-Public documentation showcase. Implementation and datasets remain private.
+- Group-aware data partitioning and reproducible verification.
 
 ### Industrial AI RAG Assistant
+**Python · RAG · Information Retrieval · AI Verification**
 
-[Explore Industrial AI RAG Portfolio](https://github.com/GitMasterMindX/Industrial_AI_RAG_Portfolio)
+[Explore RAG Portfolio](https://github.com/GitMasterMindX/Industrial_AI_RAG_Portfolio)
 
-Safety-first research project for evidence-grounded answers to industrial technical questions.
+Safety-first research into evidence-grounded industrial AI systems.
 
-**Highlights:**
 - Hybrid retrieval and evidence assessment.
-- Claim-level verification.
-- Fail-closed answer release and abstention mechanisms.
-- Synthetic evaluation scenarios and documented regression testing.
-- Traceable engineering validation.
+- Claim-level verification and fail-closed answer release.
+- Documented regression testing and experimental validation.
 
-Public portfolio contains selected documentation and experimental results. The full implementation remains private.
+## Technical Expertise
 
-## Technical Background
+**Software & AI:** Python, SQL, Git, pytest, Machine Learning, RAG, data validation, automated testing.
 
-**Industrial Automation:** Siemens TIA Portal, PLC programming, commissioning, industrial robotics, HMI/SCADA, PROFINET, OPC UA, industrial drives.
+**Industrial Engineering:** Siemens TIA Portal, PLC programming, industrial robotics, commissioning, OPC UA, PROFINET, HMI/SCADA.
 
-**Software Engineering:** Python, SQL, Git, pytest, automated testing, data validation, reproducible workflows.
+**Cybersecurity:** Network fundamentals, security monitoring, IT/OT awareness.
 
-**AI & Data Science:** Machine learning, synthetic data generation, RAG architectures, information retrieval, model evaluation.
+## Education & Certifications
 
-**Cybersecurity:** Network fundamentals, security monitoring, industrial IT/OT awareness.
+B.Eng. Automation & Robotics — Wrocław University of Science and Technology
 
-## Education & Professional Development
+IBM Data Science Professional Certificate · Google Cybersecurity Professional Certificate
 
-- B.Eng. Automation and Robotics — Wrocław University of Science and Technology
-- IBM Data Science Professional Certificate
-- Google Cybersecurity Professional Certificate
+---
 
-## Engineering Philosophy
+**Engineering philosophy:** Evidence first. Reliability before complexity.
 
-**Evidence first. Reliability before complexity.**
-
-I value transparent engineering assumptions, verifiable results, and clear separation between experimental capabilities and production-ready solutions.
-
-Open to professional opportunities involving industrial software, Python, AI engineering, and intelligent automation.
+*Both projects are research prototypes. Public repositories contain selected showcase materials; proprietary implementations remain private.*
